@@ -1,1 +1,1 @@
-# Quarantine-quiz
+# Quarantine-quiz using Python(Spyder)
